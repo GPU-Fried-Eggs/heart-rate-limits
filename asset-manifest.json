@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heart_rate_limits/static/css/main.7d17d546.css",
+    "main.js": "/heart_rate_limits/static/js/main.0f266d59.js",
+    "static/js/787.58844776.chunk.js": "/heart_rate_limits/static/js/787.58844776.chunk.js",
+    "index.html": "/heart_rate_limits/index.html",
+    "main.7d17d546.css.map": "/heart_rate_limits/static/css/main.7d17d546.css.map",
+    "main.0f266d59.js.map": "/heart_rate_limits/static/js/main.0f266d59.js.map",
+    "787.58844776.chunk.js.map": "/heart_rate_limits/static/js/787.58844776.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d17d546.css",
+    "static/js/main.0f266d59.js"
+  ]
+}
