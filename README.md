@@ -3,7 +3,7 @@
 ![img.png](docs/img.png)
 
 ***Online link:***
-[github web deploy]()
+[github web deploy](https://gpu-fried-eggs.github.io/heart_rate_limits)
 
 ## Available Scripts
 
